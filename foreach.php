@@ -11,5 +11,5 @@ $food = array('heatlthy' =>
 		}
 
 	}
-
+echo "test!!";
 ?>
